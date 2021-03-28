@@ -29,3 +29,19 @@ body {
 .menuCSS3 ul li a:hover + ul, menuCSS3 ul li ul:hover {
     display: block;
 }
+footer {
+    background-color: darkslateblue;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-title {
+    font-size: small;
+}
+
+a {
+    color: yellowgreen;
+}
